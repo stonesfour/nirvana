@@ -10,15 +10,19 @@
 
 Nirvana is a golang API framework designed for productivity and usability. It aims to be the building block for
 all golang services in Caicloud. The high-level goals and features include:
-
+Nirvana是一个为生产力和可用性而设计的golang API框架。它的目标是成为Caicloud中所有golang服务的基础。高级目标和特点包括:
 * consistent API behavior, structure and layout across all golang projects
+所有golang项目的API行为、结构和布局一致
 * improve engineering productivity with openAPI and client generation, etc
+使用openAPI和客户端生成等方法提高工程效率
 * validation can be added by declaring validation method as part of API definition
+可以通过声明验证方法作为API定义的一部分来添加验证
 * out-of-box instrumentation support, e.g. metrics, profiling, tracing, etc
+开箱即用的工具支持，例如度量、分析、跟踪等
 * easy and standard configuration management, as well as standard cli interface
-
+简单和标准的配置管理，以及标准cli接口
 Nirvana is also extensible and performant, with the goal to support fast developmenet velocity.
-
+Nirvana还具有可扩展性和性能，其目标是支持快速的开发速度。
 ## Getting Started
 
 Nirvana provides two languages of documentations to help you to dig into this framework. But only chinese docs are fresh. If you can help to update these docs, we are very appreciate it. 
